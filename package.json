@@ -1,0 +1,9 @@
+{
+  "name": "gulp-typescript-sourcemaps-demo",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
